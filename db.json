@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "To study React fundamentals",
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Implement a CRUD API using Node.js",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Complete a LeetCode coding challenge",
+      "done": false
+    },
+    {
+      "id": 4,
+      "name": "Learn about Redux and state management",
+      "done": false
+    },
+    {
+      "id": 6,
+      "name": "Refactor an existing project to use modern ES6+ syntax",
+      "done": true
+    }
+  ]
+}
